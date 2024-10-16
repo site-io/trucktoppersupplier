@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://site-io.github.io/trucktoppersupplier/sitemap.xml
